@@ -1,0 +1,1 @@
+export const INPUT_MUTATION = 'INPUT_MUTATION';
